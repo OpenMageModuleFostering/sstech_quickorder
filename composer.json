@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/SSTech_Quickorder",
+    "type": "magento-module",
+    "license": "Open-Source-License",
+    "homepage": "",
+    "description": "Quick order which allow to add all products in quick time",
+    "authors": [
+    {
+        "name": "SSTech",
+        "email": "sandynareshg@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}

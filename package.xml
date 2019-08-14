@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package>
+    <name>SSTech_Quickorder</name>
+    <version>0.0.1</version>
+    <stability>stable</stability>
+    <license>Open Source License</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Quick order which allow to add all products in quick time</summary>
+    <description>Quick order which allow to add all products in quick time&#xD;
+Easy installation &#xD;
+Shows link in top menu &#xD;
+Shows all products </description>
+    <notes>stable version release</notes>
+    <authors><author><name>SSTech</name><user>SSTech</user><email>sandynareshg@gmail.com</email></author></authors>
+    <date>2014-07-12</date>
+    <time>08:35:03</time>
+    <contents><target name="mageetc"><dir name="modules"><file name="SSTech_Quickorder.xml" hash="fd389bc997ca647d3335b75065d0cb7e"/></dir></target><target name="magecommunity"><dir name="SSTech"><dir name="Quickorder"><dir name="Block"><file name="Quickorder.php" hash="5846a63deb5c93f418d3da8f89928e96"/></dir><dir name="Helper"><file name="Data.php" hash="1d5a1d91a099048a5172c4b49b487c1d"/></dir><dir name="controllers"><file name="IndexController.php" hash="ddb94d76715f63605b84f53e22c1564b"/></dir><dir name="etc"><file name="adminhtml.xml" hash="f6c0c174c731ce37cbbb9562203c55e6"/><file name="config.xml" hash="bacf6f686d97c32dae5d80ed9208469f"/><file name="system.xml" hash="abf1ecc6264061ab291c8cb0e8c7095b"/></dir></dir></dir></target><target name="magedesign"><dir name="frontend"><dir name="base"><dir name="default"><dir name="template"><dir name="quickorder"><file name="quickorder.phtml" hash="ac59de7c633ac4382ef7bb35132a2813"/></dir></dir><dir name="layout"><file name="quickorder.xml" hash="77adfcab10640f29b9e2d32c31612e8a"/></dir></dir></dir></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.1.0</min><max>6.0.0</max></php></required></dependencies>
+</package>
